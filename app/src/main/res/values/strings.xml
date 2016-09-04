@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DogWalkRun</string>
+    <string name="Start">Start Recording</string>
+    <string name="headerTime">Time</string>
+    <string name="headerDist">Distance</string>
+    <string name="Stop">Stop Recording</string>
+    <string name="title_activity_review_upload">ReviewUploadActivity</string>
+    <string name="startTime">Start Time:</string>
+    <string name="Upload">Upload Data</string>
+    <string name="Save">Save</string>
+    <string name="logDate">Log Date:</string>
+    <string name="distRun">Distance Run:</string>
+    <string name="timeRun">Time Run:</string>
+    <string name="distTotal">Total Distance:</string>
+    <string name="timeTotal">Total Time:</string>
+</resources>
